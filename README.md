@@ -1,4 +1,4 @@
-# Google_Trend_Scraper
+# Google Trend Scraper
 Created a script in Python that utilizes the PyTrends package to scrape up to 5 keywords at time, which is then stored in a time series 
 
 Visualizations are then created for both the raw time series data and the data on a 7-day moving average.
